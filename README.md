@@ -1,9 +1,9 @@
 # Phonolyx
 
-Demo - https://www.loom.com/share/de8cf1e4079f494db68bbd116bf23f98
-
 ## Overview
 Phonolyx is an Voice Analysis mobile App built using React Native that enables users to record speech, transcribe it using OpenAI's Whisper model, and provide detailed analysis of speaking patterns. The app helps users improve their public speaking skills by providing metrics and feedback on their speech patterns.
+
+Demo - https://www.loom.com/share/de8cf1e4079f494db68bbd116bf23f98
 
 ## Features
 - 🎤 Voice Recording with duration tracking
